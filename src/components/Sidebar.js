@@ -13,9 +13,9 @@ export default function Sidebar() {
   const pathname = usePathname()
 
   return (
-    <div className="w-64 bg-gray-900 text-white min-h-screen p-6">
+    <div className="w-64 bg-blue-950 text-white min-h-screen p-6">
       <div className="mb-8">
-        <h1 className="text-2xl font-bold">QuickOrder</h1>
+        <h1 className="text-2xl font-bold">Administra</h1>
         <p className="text-gray-400 text-sm">Sistema de Gestión</p>
       </div>
       
